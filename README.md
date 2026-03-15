@@ -7,6 +7,7 @@ A collection of projects built with Claude Code.
 | File | Description |
 |------|-------------|
 | [tictactoe.html](tictactoe.html) | Tic-Tac-Toe game — playable in the browser, single file |
+| [trivia.html](trivia.html) | iOS 26 Liquid Glass trivia app — 9 categories, live internet questions, 30s timer |
 
 ## How to use
 
